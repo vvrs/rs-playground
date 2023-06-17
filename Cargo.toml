@@ -1,0 +1,10 @@
+[package]
+name = "rust-codespaces"
+version = "0.1.0"
+authors = ["Vishnu"]
+edition = "2023"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+# osqp = "0.6.2"
